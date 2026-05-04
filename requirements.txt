@@ -1,0 +1,7 @@
+opencv-python
+deepface
+pyautogui
+tensorflow
+tf-keras
+msvc-runtime
+numpy<2.0.0
